@@ -1,0 +1,11 @@
+GITHUB: Idevar/sitesenac
+HEROKU: http://claro-meu-site.herokuapp.com
+WORKFLOW
+-> Se nunca usou o Git
+   git config --global user.name " Idevar "
+   git config --global user email "idevar@hotmail.com"
+   git config --list
+-> Se já existe repositório local
+   git pull
+-> Se não existe repositório local
+   git clone https://github.com/idevar/sitesenac		
